@@ -1,0 +1,82 @@
+[
+  {
+    "q_id": 1,
+    "question": "What is the maximum home office setup stipend, and within how many days of joining must receipts be submitted?",
+    "min_distance": null,
+    "latency_ms": null,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false,
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "q_id": 2,
+    "question": "When is an employee required to provide a doctor's medical certificate for sick leave?",
+    "min_distance": null,
+    "latency_ms": null,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false,
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "q_id": 3,
+    "question": "What is the daily meal reimbursement cap during client travel, and what items are strictly excluded?",
+    "min_distance": null,
+    "latency_ms": null,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false,
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "q_id": 4,
+    "question": "How many unused annual paid leave days can carry over to the next year, and what happens to any extra days?",
+    "min_distance": null,
+    "latency_ms": null,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false,
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "q_id": 5,
+    "question": "If an employee buys a monitor and also claims home broadband, what are the reimbursement caps and submission timelines for each?",
+    "min_distance": null,
+    "latency_ms": null,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false,
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "q_id": 6,
+    "question": "How many weeks of paid maternity or paternity leave do full-time employees receive?",
+    "min_distance": null,
+    "latency_ms": null,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false,
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "q_id": 7,
+    "question": "What is the reimbursement limit for international business-class flight upgrades?",
+    "min_distance": null,
+    "latency_ms": null,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false,
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "q_id": 8,
+    "question": "Are employees allowed to work remotely from outside India for up to 30 days per year?",
+    "min_distance": null,
+    "latency_ms": null,
+    "answer": "Insufficient context in the provided documents.",
+    "cited_pages": [],
+    "is_grounded": false,
+    "error": "[Errno 11001] getaddrinfo failed"
+  }
+]
